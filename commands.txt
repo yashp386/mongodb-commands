@@ -3,5 +3,7 @@ use shop(any databasename)                 //to use that particular database
 db.items.insertOne({name:"dave",age: 12})  //to insert item in db
 show collections                           //to show all connections in databse
 
-db.collection.find()                        //read operation
+db.collection.find()                        //read without condition
+db.items.find(name:"kylie")                 //read with condition
+
 // query argumnet used to mention a particular condition
