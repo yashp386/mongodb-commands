@@ -6,5 +6,5 @@ show collections                           //to show all connections in databse
 db.collection.find()                        //read without condition
 db.items.find(name:"kylie")                 //read with condition
 
-// query argumnet used to mention a particular condition
-// projection usedto display some specified field
+// query argument used to mention a particular condition
+// projection used to display some specified field
