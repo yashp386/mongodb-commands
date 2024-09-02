@@ -1,3 +1,5 @@
+direct reference https://www.mongodb.com/docs/manual/crud/
+
 show dbs                                   //to show all databases
 use shop(any databasename)                 //to use that particular database
 db.items.insertOne({name:"dave",age: 12})  //to insert item in db
