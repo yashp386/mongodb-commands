@@ -1,2 +1,2 @@
 # mongodb-commands
-command used in cmd for mongo-db
+command used in mongo-db compass or shell
