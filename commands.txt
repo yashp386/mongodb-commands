@@ -10,3 +10,8 @@ db.items.find(name:"kylie")                 //read with condition
 
 // query argument used to mention a particular condition
 // projection used to display some specified field
+
+update functions
+db.collection.updateOne()
+db.collection.updateMany()
+db.collection.replaceOne()
