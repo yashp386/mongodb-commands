@@ -11,6 +11,7 @@ db.items.find(name:"kylie")                 //read with condition
 // query argument used to mention a particular condition
 // projection used to display some specified field
 
+
 update functions
 db.collection.updateOne()                   //to update one item
 db.collection.updateMany()                  //to update many item
