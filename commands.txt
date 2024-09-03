@@ -12,6 +12,6 @@ db.items.find(name:"kylie")                 //read with condition
 // projection used to display some specified field
 
 update functions
-db.collection.updateOne()
-db.collection.updateMany()
-db.collection.replaceOne()
+db.collection.updateOne()                   //to update one item
+db.collection.updateMany()                  //to update many item
+db.collection.replaceOne()                  //to replace one
